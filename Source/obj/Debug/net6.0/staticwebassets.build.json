@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TlDykJlsYGU/G6ktsZgQcPfBo7LxY0fohhVhN6KoGEc=",
+  "Source": "SMWebApi",
+  "BasePath": "_content/SMWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
